@@ -1,0 +1,1 @@
+"./Lab3c.obj" "../lnk_msp430g2553.cmd" -llibc.a 
